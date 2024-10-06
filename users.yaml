@@ -1,0 +1,9 @@
+users:
+  - name: A
+    permissions: Admin
+  - name: B
+    permissions: NiFi, Grafana
+  - name: C
+    permissions: Grafana
+  - name: D
+    permissions: Grafana
